@@ -1,4 +1,3 @@
-layout_spectrum: 0.7746618529781699
 typography_spectrum: 0.25737381516955793
 color:
   brandStrength: 0.594136951956898
@@ -6,9 +5,11 @@ color:
   saturation: 0.598576633958146
   rhythmicContrast: 0.32101263711228967
   brandColors:
-    - '#DDDCC5'
-    - '#958976'
-    - '#611427'
-    - '#1D2326'
-    - '#6A6A61'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+layout_spectrum: 0.7746618529781699
 name: Corporate Framing Services
+title: Get Framed
